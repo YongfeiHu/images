@@ -1,2 +1,2 @@
 # images
-image bed
+image bed.
